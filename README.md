@@ -1,1 +1,1 @@
-# Data-Digger
+Data Digger is a practical SQL project developed using MySQL Workbench. It demonstrates database management through CRUD operations, SQL clauses, operators, aggregate functions, primary keys, and foreign keys.
